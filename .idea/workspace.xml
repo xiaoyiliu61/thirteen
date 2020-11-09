@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a264eff5-262e-4c08-bbdd-e162b2d4a698" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/Go" />
+  <component name="ProjectId" id="1bjtkcBpP4f0IOEJKsEW3piJRSD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build demo02__文件上传.go">
+    <configuration name="go build demo01_作业.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="demo0511_表单验证" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/demo01_作业.go" />
+      <package value="demo0511_表单验证" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build demo02__文件上传.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="demo0511_表单验证" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/demo02__文件上传.go" />
+      <package value="demo0511_表单验证" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build demo0511_表单验证" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="demo0511_表单验证" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/demo01_作业.go" />
+      <package value="demo0511_表单验证" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build demo02__文件上传.go" />
+        <item itemvalue="Go Build.go build demo01_作业.go" />
+        <item itemvalue="Go Build.go build demo0511_表单验证" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="815" y="96" key="FileChooserDialogImpl" timestamp="1590388609996">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="815" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1590388609996" />
+    <state width="445" height="160" key="GridCell.Tab.0.bottom" timestamp="1589281961240">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="445" height="160" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589281961240" />
+    <state width="445" height="160" key="GridCell.Tab.0.center" timestamp="1589281961240">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="445" height="160" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1589281961240" />
+    <state width="445" height="160" key="GridCell.Tab.0.left" timestamp="1589281961240">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="445" height="160" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1589281961240" />
+    <state width="445" height="160" key="GridCell.Tab.0.right" timestamp="1589281961240">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="445" height="160" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1589281961240" />
+  </component>
+</project>
